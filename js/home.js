@@ -172,8 +172,8 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     async function performWebSearch(query) {
-        const apiKey = 'AIzaSyDU9vILbzr_qKkSwZWQnEcKWQE-oReoh3s'; // Replace with your actual API key
-        const searchEngineId = '901ac03167f6f44d6'; // Replace with your actual search engine ID
+        const apiKey = ''; // Replace with your actual API key
+        const searchEngineId = ''; // Replace with your actual search engine ID
 
         const url = `https://www.googleapis.com/customsearch/v1?key=${apiKey}&cx=${searchEngineId}&q=${encodeURIComponent(query)}`;
 
