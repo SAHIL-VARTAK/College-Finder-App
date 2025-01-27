@@ -1,7 +1,5 @@
 ## College Finder App
 
----
-
 Here are some screenshots of the application:
 
 ![Image 1](images/home.jpg)
@@ -13,6 +11,6 @@ Here are some screenshots of the application:
 ![Image 3](images/registration.jpg)
 *Registration Page*
 
-![Image 4](images/college.jpg)
+![Image 4](images/colleges.jpg)
 *College Page*
 
